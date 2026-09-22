@@ -1,0 +1,7 @@
+=== INVENTARIO DE SERVIDORES ===
+
+[Servidor Alfa]
+Estado: Pendiente de registro
+
+[Servidor Beta]
+Estado: Pendiente de registro
